@@ -4,5 +4,8 @@
 .container{
 	.innerWrap{
 		@include innerWrap;
+		.sidearea{
+			padding-top: 15px;
+		}
 	}
 }

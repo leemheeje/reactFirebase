@@ -13,7 +13,7 @@ const ItemThumbnail = ({
 			<div className={cx('itemTumbnailInner')}>
 				<div className={cx('item')}>
 					{
-						thumbnails.map(imageURI => <img src={imageURI} alt="" />)
+						thumbnails.map((imageURI, index) => <img src={imageURI} key={index} alt="" />)
 					}
 				</div>
 			</div>

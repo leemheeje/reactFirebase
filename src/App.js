@@ -11,7 +11,7 @@ function App() {
 		<div className="viewport">
 			<Header />
 			<div style={{
-				paddingTop:20,
+				paddingTop:50,
 				paddingBottom: 20
 			}}>
 				<BrowserRouter>
