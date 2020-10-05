@@ -1,0 +1,15 @@
+.touchableopacity {
+  outline: none;
+  border: none;
+  background: none;
+  border-radius: 0;
+}
+
+.btn {
+  border-width: 3px;
+}
+
+.btn.tp1 {
+  background: red;
+}
+/*# sourceMappingURL=Button.module.css.map */

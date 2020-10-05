@@ -1,7 +1,6 @@
 import React from 'react';
 import classnames from 'classnames/bind';
 import styles from './ItemUserInformation.module.scss';
-import { VscAccount } from 'react-icons/vsc';
 
 const cx = classnames.bind(styles);
 const ItemUserInformation = ({

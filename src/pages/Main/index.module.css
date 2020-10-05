@@ -1,0 +1,10 @@
+.container .innerWrap {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .innerWrap .sidearea {
+  padding-top: 15px;
+}
+/*# sourceMappingURL=index.module.css.map */

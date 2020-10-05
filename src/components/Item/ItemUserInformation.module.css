@@ -1,0 +1,89 @@
+.itemUserInfoWrap.itemWrapInUserInfo {
+  padding: 15px;
+}
+
+.itemUserInfoWrap .itemUserInfoInner {
+  position: relative;
+  padding-left: 45px;
+  min-height: 45px;
+}
+
+.itemUserInfoWrap .itemUserInfoInner .itemUserprofile {
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  background: no-repeat center center;
+  background-size: cover;
+  background-color: #ddd;
+  width: 45px;
+  height: 45px;
+}
+
+.itemUserInfoWrap .itemUserInfoInner .itemUserTxts {
+  padding: 7.5px;
+}
+
+.itemUserInfoWrap .itemUserInfoInner .itemUserTxts .tt {
+  line-height: 15px;
+  font-size: 15px;
+  color: #222;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.itemUserInfoWrap .itemUserInfoInner .itemUserTxts .st {
+  line-height: 15px;
+  font-size: 13px;
+  color: #555;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.itemUserInfoWrap.lg .itemUserInfoInner {
+  padding-left: 60px;
+  min-height: 60px;
+}
+
+.itemUserInfoWrap.lg .itemUserInfoInner .itemUserprofile {
+  width: 60px;
+  height: 60px;
+}
+
+.itemUserInfoWrap.lg .itemUserInfoInner .itemUserTxts {
+  padding: 10px;
+}
+
+.itemUserInfoWrap.lg .itemUserInfoInner .itemUserTxts .tt {
+  line-height: 20px;
+}
+
+.itemUserInfoWrap.lg .itemUserInfoInner .itemUserTxts .st {
+  line-height: 20px;
+}
+
+.itemUserInfoWrap.sm .itemUserInfoInner {
+  padding-left: 30px;
+  min-height: 30px;
+}
+
+.itemUserInfoWrap.sm .itemUserInfoInner .itemUserprofile {
+  width: 30px;
+  height: 30px;
+}
+
+.itemUserInfoWrap.sm .itemUserInfoInner .itemUserTxts {
+  padding: 5px;
+}
+
+.itemUserInfoWrap.sm .itemUserInfoInner .itemUserTxts .tt {
+  line-height: 10px;
+}
+
+.itemUserInfoWrap.sm .itemUserInfoInner .itemUserTxts .st {
+  line-height: 10px;
+}
+/*# sourceMappingURL=ItemUserInformation.module.css.map */

@@ -1,0 +1,12 @@
+.itemTumbnailWrap .itemTumbnailInner {
+  background-color: #f9f9f9;
+}
+
+.itemTumbnailWrap .itemTumbnailInner .item {
+  text-align: center;
+}
+
+.itemTumbnailWrap .itemTumbnailInner .item img {
+  max-width: 100%;
+}
+/*# sourceMappingURL=ItemThumbnail.module.css.map */

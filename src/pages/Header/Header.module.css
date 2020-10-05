@@ -1,0 +1,40 @@
+.header {
+  background-color: #fff;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.header .container .innerWrap {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  min-height: 50px;
+}
+
+.header .container .innerWrap .logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 50px;
+}
+
+.header .container .innerWrap .btnGroup {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 50px;
+}
+
+.header .container .innerWrap .buttonIcon {
+  font-size: 20px;
+  color: #222;
+  display: inline-block;
+  vertical-align: middle;
+  width: 45px;
+  height: 50px;
+}
+
+.header .container .innerWrap .buttonIcon:hover {
+  color: #5c5c5c;
+}
+/*# sourceMappingURL=Header.module.css.map */
